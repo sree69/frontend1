@@ -10,9 +10,7 @@
     <style>
      body
      {
-       background-image: url("WhatsApp Image 2021-04-29 at 1.14.00 AM.jpeg");
-       background-size: cover;
-       background-repeat:no-repeat;  
+       background-color: aqua;
      }
 
     </style>
